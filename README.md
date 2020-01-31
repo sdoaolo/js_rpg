@@ -21,6 +21,9 @@
     -More items are used first.
     -If the number of two items is the same, the cake is used first because the hp of the cake is higher.  
 
+### 자세한 기능 설명
+> https://jie0025.tistory.com/5
+
 ----------------------------------------------------------------------------------------------------------------------------
 
 
