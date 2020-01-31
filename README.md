@@ -20,3 +20,9 @@
   6. item is used if the monster’s offensive power is greater than the hero’s hp.
     -More items are used first.
     -If the number of two items is the same, the cake is used first because the hp of the cake is higher.  
+
+![아이템소유확인, 획득](https://user-images.githubusercontent.com/48430781/73516748-c5792980-443c-11ea-9e79-ec2e0a3449ed.png)
+>> Check : function 1, 3
+
+![아이템사용확인](https://user-images.githubusercontent.com/48430781/73516749-c5792980-443c-11ea-99b5-48bac6fed802.png)
+>> Check : function 6
